@@ -1,4 +1,4 @@
-# Sakila DVD Rental Business Analysis (MySQL Project)
+# DVD Rental Business Analysis 
 
 ## Project Overview
 
