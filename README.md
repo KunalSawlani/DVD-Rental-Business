@@ -14,7 +14,7 @@ Using SQL joins, window functions, CTEs, aggregates, and case logic, we answer d
 
 ## Problem Statement
 
-Sakila Inc. wants to scale its DVD rental business by:
+DVD rental wants to scale its business by:
 
 - Retaining high-value customers  
 - Optimizing its film catalog  
