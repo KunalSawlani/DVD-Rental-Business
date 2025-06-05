@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores the Sakila DVD Rental Database using MySQL to uncover actionable insights that can help improve business performance. We analyze customer behavior, film performance, staff efficiency, and store-level trends.
+This project explores the DVD Rental Database using MySQL to uncover actionable insights that can help improve business performance. We analyze customer behavior, film performance, staff efficiency, and store-level trends.
 
 The dataset includes details about:
 
@@ -10,7 +10,7 @@ The dataset includes details about:
 - Film categories, inventory, and pricing  
 - Store locations and staff members
 
-Using SQL joins, window functions, CTEs, aggregates, and case logic, we answer 20 data-driven business questions and form conclusions that drive strategic recommendations.
+Using SQL joins, window functions, CTEs, aggregates, and case logic, we answer data-driven business questions and form conclusions that drive strategic recommendations.
 
 ## Problem Statement
 
